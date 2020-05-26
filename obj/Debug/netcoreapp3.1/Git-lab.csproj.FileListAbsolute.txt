@@ -1,0 +1,11 @@
+C:\Users\acer\Desktop\Git-lab\bin\Debug\netcoreapp3.1\Git-lab.exe
+C:\Users\acer\Desktop\Git-lab\bin\Debug\netcoreapp3.1\Git-lab.deps.json
+C:\Users\acer\Desktop\Git-lab\bin\Debug\netcoreapp3.1\Git-lab.runtimeconfig.json
+C:\Users\acer\Desktop\Git-lab\bin\Debug\netcoreapp3.1\Git-lab.runtimeconfig.dev.json
+C:\Users\acer\Desktop\Git-lab\bin\Debug\netcoreapp3.1\Git-lab.dll
+C:\Users\acer\Desktop\Git-lab\bin\Debug\netcoreapp3.1\Git-lab.pdb
+C:\Users\acer\Desktop\Git-lab\obj\Debug\netcoreapp3.1\Git-lab.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\Git-lab\obj\Debug\netcoreapp3.1\Git-lab.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Git-lab\obj\Debug\netcoreapp3.1\Git-lab.AssemblyInfo.cs
+C:\Users\acer\Desktop\Git-lab\obj\Debug\netcoreapp3.1\Git-lab.dll
+C:\Users\acer\Desktop\Git-lab\obj\Debug\netcoreapp3.1\Git-lab.pdb
