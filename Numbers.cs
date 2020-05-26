@@ -37,10 +37,11 @@ namespace Code
                     return x + y;
                 case '-':
                     return x - y;
+                case '/':
+                    return x / y;
                 default:
                     return x * y;
             }
         }
-
     }
 }
