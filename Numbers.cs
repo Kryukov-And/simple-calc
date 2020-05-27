@@ -43,6 +43,8 @@ namespace Code
                     return MathFunc.Power((int) x, (int) y);
                 case 'g':
                     return MathFunc.Gcd((int) x, (int) y);
+                case 'l':
+                    return MathFunc.Lcm((int) x, (int) y);
                 default:
                     return x * y;
             }
