@@ -21,5 +21,10 @@ namespace Code
             }
             return a;
         }
+
+        public static int Lcm(int a, int b)
+        {
+            return a / Gcd(a, b) * b;
+        }
     }
 }
