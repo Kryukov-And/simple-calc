@@ -39,6 +39,14 @@ namespace Code
                     return x - y;
                 case '/':
                     return x / y;
+                case 'p':
+                {
+                    double s = 1;
+                    for (int i = 0; i < (int) y; i++){
+                        s *= x;
+                    }
+                    return s;
+                }
                 default:
                     return x * y;
             }
