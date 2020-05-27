@@ -18,6 +18,7 @@ namespace Code
             System.Console.WriteLine("* for multiply");
             System.Console.WriteLine("/ for division");
             System.Console.WriteLine("p for power");
+            System.Console.WriteLine("g for gcd");
         }
 
         public static void Hello_Message()
