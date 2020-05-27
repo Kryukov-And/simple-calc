@@ -12,7 +12,17 @@ namespace Code
 
         public static void Print_Text_2()
         {
-            System.Console.WriteLine("Enter the operation: ");
+            System.Console.WriteLine("Enter one of following symbols: ");
+            System.Console.WriteLine("+ for addition");
+            System.Console.WriteLine("- fo subtraction");
+            System.Console.WriteLine("* for multiply");
+            System.Console.WriteLine("/ for division");
+            System.Console.WriteLine("p for power");
+        }
+
+        public static void Hello_Message()
+        {
+            System.Console.WriteLine("Welcome, please follow instructions");
         }
     }
 }
