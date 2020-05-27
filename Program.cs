@@ -10,6 +10,7 @@ namespace Code
     {
         static void Main(string[] args)
         {
+            Print.Hello_Message();
             Print.Print_Text_1();
 
             double x = Convert.ToDouble(Console.ReadLine());
