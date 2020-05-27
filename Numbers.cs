@@ -35,10 +35,13 @@ namespace Code
             {
                 case '+':
                     return x + y;
-                default:
+                case '-':
                     return x - y;
+                case '/':
+                    return x / y;
+                default:
+                    return x * y;
             }
         }
-
     }
 }
