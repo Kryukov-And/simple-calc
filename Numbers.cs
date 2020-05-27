@@ -40,13 +40,9 @@ namespace Code
                 case '/':
                     return x / y;
                 case 'p':
-                {
-                    double s = 1;
-                    for (int i = 0; i < (int) y; i++){
-                        s *= x;
-                    }
-                    return s;
-                }
+                    return MathFunc.Power((int) x, (int) y);
+                case 'g':
+                    return MathFunc.Gcd((int) x, (int) y);
                 default:
                     return x * y;
             }
